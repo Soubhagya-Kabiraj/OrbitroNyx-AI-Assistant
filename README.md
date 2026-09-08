@@ -37,6 +37,7 @@ By pairing **temporal computer vision heuristics** with a **strict Finite State 
 ---
 
 ## 🏗️ System Architecture
+```
 
 [ Camera / Video Feed ]
 │
@@ -54,7 +55,7 @@ By pairing **temporal computer vision heuristics** with a **strict Finite State 
 │
 ▼
 [ React Mission Control Dashboard ]
-
+```
 ---
 
 ### Technical Workflow
