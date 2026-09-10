@@ -21,7 +21,7 @@
 
 The **BAS Onboard AI Assistant** is a full-stack MVP designed for onboard human-activity recognition (HAR) and deterministic experiment-sequence verification in microgravity environments (e.g., Space Stations, Orbital Laboratories).
 
-By pairing **temporal computer vision heuristics** with a **strict Finite State Machine (FSM)**, the system ensures non-intrusive safety monitoring, procedure compliance, and real-time guidance for astronauts—all running completely offline with zero dependency on external cloud AI APIs.
+By pairing **temporal computer vision heuristics** with a **strict Finite State Machine (FSM)**, the system ensures non-intrusive safety monitoring, procedure compliance, and real-time guidance for astronauts—all running completely offline with zero dependency on external cloud AI APIs..
 
 ---
 
